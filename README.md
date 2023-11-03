@@ -3,7 +3,7 @@
 Long Description about project. This project do that. This project is awesome...
 ## Team members
 1. Varun Subramanian [Embed personal github URL]
-2. Abhiram Krishna [Embed perosnal github URL]
+2. Abhiram Krishna [https://github.com/Abhiram-codes]
 3. Aneena Arshad [Embed perosnal github URL]
 4. Bharath Krishnan [Embed perosnal github URL]
 ## Team Id
